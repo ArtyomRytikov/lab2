@@ -66,10 +66,9 @@ lab22/
 │   │   │   ├── histogram.h     # Построение гистограммы
 │   │   │   ├── most_frequent_substrings.h # Частые подпоследовательности
 │   │   │   └── task_prioritizer.h # Приоритезация задач
-│   │   └── (возможно другие файлы в core/)
 │   ├── main.cpp               # Основная программа с графическим интерфейсом
 │   ├── tests.cpp              # Тесты для всех компонентов
-│   ├── test.exe                   # Исполняемый файл тестов
+│   ├── test.exe               # Исполняемый файл тестов
 │   └── gtest/                 # Google Test framework
-│   └──CMakeLists.txt             # Файл сборки CMake
+│   └──CMakeLists.txt          # Файл сборки CMake
 ```
