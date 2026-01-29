@@ -69,6 +69,6 @@ lab22/
 │   ├── main.cpp               # Основная программа с графическим интерфейсом
 │   ├── tests.cpp              # Тесты для всех компонентов
 │   ├── test.exe               # Исполняемый файл тестов
-│   └── gtest/                 # Google Test framework
+│   ├── gtest/                 # Google Test framework
 │   └──CMakeLists.txt          # Файл сборки CMake
 ```
